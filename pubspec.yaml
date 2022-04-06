@@ -1,6 +1,6 @@
 name: easy_push
 description: A simple router for Dart
-version: 0.0.3
+version: 1.0.0
 repository :  "https://github.com/gauravmehta13/easy_push.git"
 
 environment:
